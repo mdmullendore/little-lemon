@@ -1,4 +1,4 @@
-# Getting Started with Little Lemon Booking System
+# Restaurant Booking System
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
